@@ -1,7 +1,7 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Omar Ibrahim - Junior Penetration Tester" />
+<img src="banner.svg" width="100%" alt="Omar Ibrahim - Junior Penetration Tester" />
 
 <a href="https://github.com/0xOmar-Ibrahim">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1000&color=42E8C5&center=true&vCenter=true&width=720&lines=I+study+systems+to+understand+how+they+fail.;Web+Application+Security+%7C+Manual+Testing;Vulnerability+Research+%7C+Security+Automation;IoT+%26+Embedded+Security" alt="Typing SVG" />
@@ -266,8 +266,8 @@ My work centers on how applications, networks, and systems behave under adversar
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xOmar-Ibrahim&show_icons=true&theme=github_dark&hide_border=true&bg_color=080B16&title_color=42E8C5&icon_color=087F8C&text_color=C9D1D9&include_all_commits=true" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xOmar-Ibrahim&layout=compact&theme=github_dark&hide_border=true&bg_color=080B16&title_color=42E8C5&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+<img width="49%" src="https://raw.githubusercontent.com/0xOmar-Ibrahim/0xOmar-Ibrahim/profile-summary-card-output/dark/3-stats.svg" alt="GitHub stats" />
+<img width="49%" src="https://raw.githubusercontent.com/0xOmar-Ibrahim/0xOmar-Ibrahim/profile-summary-card-output/dark/2-most-commit-language.svg" alt="Top languages" />
 
 <br/>
 
@@ -275,7 +275,7 @@ My work centers on how applications, networks, and systems behave under adversar
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xOmar-Ibrahim&bg_color=080B16&color=42E8C5&line=087F8C&point=FFFFFF&area=true&area_color=087F8C&hide_border=true&radius=8" alt="Contribution activity" />
+<img width="100%" src="https://raw.githubusercontent.com/0xOmar-Ibrahim/0xOmar-Ibrahim/output/github-snake-dark.svg" alt="Contribution graph" />
 
 </div>
 
