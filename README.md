@@ -266,16 +266,11 @@ My work centers on how applications, networks, and systems behave under adversar
 
 <div align="center">
 
-<img width="49%" src="https://raw.githubusercontent.com/0xOmar-Ibrahim/0xOmar-Ibrahim/profile-summary-card-output/dark/3-stats.svg" alt="GitHub stats" />
-<img width="49%" src="https://raw.githubusercontent.com/0xOmar-Ibrahim/0xOmar-Ibrahim/profile-summary-card-output/dark/2-most-commit-language.svg" alt="Top languages" />
-
 <br/>
 
 <img width="80%" src="https://streak-stats.demolab.com?user=0xOmar-Ibrahim&theme=dark&hide_border=true&background=080B16&ring=42E8C5&fire=087F8C&currStreakLabel=42E8C5&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="Streak stats" />
 
-<br/><br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/0xOmar-Ibrahim/0xOmar-Ibrahim/output/github-snake-dark.svg" alt="Contribution graph" />
+<br/>
 
 </div>
 
